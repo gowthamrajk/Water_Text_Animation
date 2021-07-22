@@ -19,3 +19,5 @@ A simple animation project to demonstrates the text animation effects as water w
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 
 # UI SneakPeak ❤️ 
+
+![image](https://user-images.githubusercontent.com/43011442/126605412-26c886d1-fd84-4edb-b09f-ca483ed3cd07.png)
