@@ -22,3 +22,4 @@ A simple animation project to demonstrates the text animation effects as water w
 
 ![image](https://user-images.githubusercontent.com/43011442/126605512-27b539e8-2e00-4837-b3fc-a4835167fac4.png)
 ![image](https://user-images.githubusercontent.com/43011442/126605412-26c886d1-fd84-4edb-b09f-ca483ed3cd07.png)
+![image](https://user-images.githubusercontent.com/43011442/126605563-f2c8458c-aa77-463a-a5a5-12cf52db0288.png)
