@@ -25,3 +25,5 @@ A simple animation project to demonstrates the text animation effects as water w
 ![image](https://user-images.githubusercontent.com/43011442/126605563-f2c8458c-aa77-463a-a5a5-12cf52db0288.png)
 
 <br><br>
+
+**For more queries, reach me through gowthamraj692@gmail.com or whatsapp @ 9698382306**
