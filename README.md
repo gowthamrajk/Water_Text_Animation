@@ -31,3 +31,6 @@ A simple animation project to demonstrates the text animation effects as water w
 <br>
 
 <div align="center">
+
+# Show some ❤️ by starring this repository !!!
+
