@@ -38,3 +38,4 @@ A simple animation project to demonstrates the text animation effects as water w
 
 <br>
 
+## Project Developed & Maintained By 
